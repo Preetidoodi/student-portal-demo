@@ -1,0 +1,8 @@
+Name: D Preethi
+suc: 2358250186
+ht no: 2330377401000
+dept: BCA
+academic year: III
+sec: 4
+roll no: 11
+Branch: ASCS KKD
